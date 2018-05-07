@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files\JetBrains\JDK" version="1.8.0_162">
+<bootpath>
+<entry path="C:\Program Files\JetBrains\JDK\lib\resources.jar"/>
+<entry path="C:\Program Files\JetBrains\JDK\lib\rt.jar"/>
+<entry path="C:\Program Files\JetBrains\JDK\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\JetBrains\JDK\lib\jsse.jar"/>
+<entry path="C:\Program Files\JetBrains\JDK\lib\jce.jar"/>
+<entry path="C:\Program Files\JetBrains\JDK\lib\charsets.jar"/>
+<entry path="C:\Program Files\JetBrains\JDK\lib\jfr.jar"/>
+<entry path="C:\Program Files\JetBrains\JDK\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\JetBrains\JDK\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\JetBrains\JDK\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
